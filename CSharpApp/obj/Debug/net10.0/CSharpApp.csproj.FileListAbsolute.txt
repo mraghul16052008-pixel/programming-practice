@@ -1,0 +1,14 @@
+C:\Users\mragh\VS Code\CSharpApp\bin\Debug\net10.0\CSharpApp.exe
+C:\Users\mragh\VS Code\CSharpApp\bin\Debug\net10.0\CSharpApp.deps.json
+C:\Users\mragh\VS Code\CSharpApp\bin\Debug\net10.0\CSharpApp.runtimeconfig.json
+C:\Users\mragh\VS Code\CSharpApp\bin\Debug\net10.0\CSharpApp.dll
+C:\Users\mragh\VS Code\CSharpApp\bin\Debug\net10.0\CSharpApp.pdb
+C:\Users\mragh\VS Code\CSharpApp\obj\Debug\net10.0\CSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mragh\VS Code\CSharpApp\obj\Debug\net10.0\CSharpApp.AssemblyInfoInputs.cache
+C:\Users\mragh\VS Code\CSharpApp\obj\Debug\net10.0\CSharpApp.AssemblyInfo.cs
+C:\Users\mragh\VS Code\CSharpApp\obj\Debug\net10.0\CSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\mragh\VS Code\CSharpApp\obj\Debug\net10.0\CSharpApp.dll
+C:\Users\mragh\VS Code\CSharpApp\obj\Debug\net10.0\refint\CSharpApp.dll
+C:\Users\mragh\VS Code\CSharpApp\obj\Debug\net10.0\CSharpApp.pdb
+C:\Users\mragh\VS Code\CSharpApp\obj\Debug\net10.0\CSharpApp.genruntimeconfig.cache
+C:\Users\mragh\VS Code\CSharpApp\obj\Debug\net10.0\ref\CSharpApp.dll
